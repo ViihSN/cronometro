@@ -47,4 +47,4 @@ O componente renderiza:
 - Dois botões: um para iniciar/pausar e outro para limpar o cronômetro.
 
 ## Estilos
-- Crie um arquivo `style.css` na pasta `src` com os seguintes estilos.
+- Crie um arquivo `style.css` na pasta `src`.
